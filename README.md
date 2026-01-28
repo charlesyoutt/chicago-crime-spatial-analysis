@@ -36,7 +36,7 @@ The project is organized into two Python files:
 - **`spatial_analysis.py`**  
   Handles district-level spatial visualization, including crime hotspot maps, most common arrest type by district, and arrest density plots.
 
-- **`community_area_model.py`**  
+- **`crime_clustering_model.py`**  
   Performs community-area aggregation, KMeans clustering, and multinomial logistic regression using census-based socioeconomic indicators.
 
 Each file can be run independently, but together they provide a geographic and analytical view of crime patterns in Chicago.
